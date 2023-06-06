@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LumeStack/cypress-gha/issues"
   },
-  "homepage": "https://github.com/LumeStack/cypress-gha#readme"
+  "homepage": "https://github.com/LumeStack/cypress-gha#readme",
+  "devDependencies": {
+    "cypress": "^12.13.0"
+  }
 }
